@@ -1,0 +1,8 @@
+.circuit
+C1 n1 n2 1
+L1 n2 n3 1e-6
+R1 n4 GND 1e3
+V1 GND n1 ac 5 0.0
+V2 n4 n3 ac 8 0
+.end
+.ac V1 1000

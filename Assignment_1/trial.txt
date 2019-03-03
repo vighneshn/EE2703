@@ -1,0 +1,6 @@
+...
+.end
+R... n1 n2 value #This is a comment
+E... n1 n2 n3 n4 value
+R... n1 n2 value
+.circuit

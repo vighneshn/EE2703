@@ -1,0 +1,6 @@
+....
+.circuit
+name n1 n2 value # comment
+name n1 n2 n3 n4 value # comment
+name n1 n2 vname value # comment
+.end
